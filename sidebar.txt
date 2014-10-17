@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pez:home|Door43 (pez)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pez|d43-pez repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pez/archive/master.zip|d43-pez.zip]]
+
+**Recent Changes**
+{{changes>ns = pez}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pez|Ethnologue data]]
+
